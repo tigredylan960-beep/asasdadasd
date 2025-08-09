@@ -84,3 +84,6 @@
 [04:12:35] [Server thread/INFO]: Villager cuf['Fletcher'/1220, l='ServerLevel[world]', x=157.42, y=68.56, z=-372.12] died, message: 'Fletcher was slain by Zombie'
 [04:13:25] [Server thread/INFO]: Villager cuf['Toolsmith'/1187, l='ServerLevel[world]', x=162.55, y=68.00, z=-380.57] died, message: 'Toolsmith was slain by Zombie'
 [04:13:40] [Server thread/INFO]: Villager cuf['Armorer'/1218, l='ServerLevel[world]', x=159.80, y=68.00, z=-380.49] died, message: 'Armorer was slain by Zombie'
+[04:17:54] [Server thread/INFO]: Alex lost connection: Disconnected
+[04:17:54] [Server thread/INFO]: Alex left the game
+[04:18:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
