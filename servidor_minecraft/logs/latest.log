@@ -73,3 +73,14 @@
 [03:55:46] [Server thread/INFO]: Sciross has made the advancement [What a Deal!]
 [04:01:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
 [04:02:54] [Server thread/INFO]: Alex has made the advancement [Not Today, Thank You]
+[04:09:34] [Server thread/INFO]: Villager cuf['Villager'/1506, l='ServerLevel[world]', x=157.35, y=68.68, z=-371.33] died, message: 'Villager was slain by Zombie'
+[04:09:56] [Server thread/INFO]: Villager cuf['Villager'/1150, l='ServerLevel[world]', x=160.63, y=68.62, z=-371.31] died, message: 'Villager was slain by Zombie'
+[04:10:04] [Server thread/INFO]: Sciross lost connection: Disconnected
+[04:10:04] [Server thread/INFO]: Sciross left the game
+[04:10:36] [Server thread/INFO]: Villager cuf['Villager'/1221, l='ServerLevel[world]', x=162.68, y=68.00, z=-379.23] died, message: 'Villager was slain by Zombie'
+[04:11:15] [Server thread/INFO]: Villager cuf['Toolsmith'/1210, l='ServerLevel[world]', x=159.95, y=68.56, z=-371.30] died, message: 'Toolsmith was slain by Zombie'
+[04:11:41] [Server thread/INFO]: Villager cuf['Villager'/1215, l='ServerLevel[world]', x=162.50, y=68.39, z=-377.39] died, message: 'Villager was slain by Zombie'
+[04:12:16] [Server thread/INFO]: Villager cuf['Mason'/1440, l='ServerLevel[world]', x=157.56, y=68.56, z=-372.69] died, message: 'Mason was slain by Zombie'
+[04:12:35] [Server thread/INFO]: Villager cuf['Fletcher'/1220, l='ServerLevel[world]', x=157.42, y=68.56, z=-372.12] died, message: 'Fletcher was slain by Zombie'
+[04:13:25] [Server thread/INFO]: Villager cuf['Toolsmith'/1187, l='ServerLevel[world]', x=162.55, y=68.00, z=-380.57] died, message: 'Toolsmith was slain by Zombie'
+[04:13:40] [Server thread/INFO]: Villager cuf['Armorer'/1218, l='ServerLevel[world]', x=159.80, y=68.00, z=-380.49] died, message: 'Armorer was slain by Zombie'
