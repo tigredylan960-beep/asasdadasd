@@ -1,0 +1,56 @@
+[02:33:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:33:44] [ServerMain/INFO]: No existing world data, creating new world
+[02:33:46] [ServerMain/INFO]: Loaded 1407 recipes
+[02:33:46] [ServerMain/INFO]: Loaded 1520 advancements
+[02:33:46] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:33:46] [Server thread/INFO]: Loading properties
+[02:33:46] [Server thread/INFO]: Default game type: SURVIVAL
+[02:33:46] [Server thread/INFO]: Generating keypair
+[02:33:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:33:46] [Server thread/INFO]: Using epoll channel type
+[02:33:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:33:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:33:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:33:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:33:46] [Server thread/INFO]: Preparing level "world"
+[02:34:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:34:02] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:03] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:03] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:03] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:04] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:04] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:05] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:05] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:06] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:06] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:07] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:07] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:08] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:08] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:09] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:09] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:10] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:34:10] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[02:34:10] [Server thread/INFO]: Time elapsed: 8714 ms
+[02:34:10] [Server thread/INFO]: Done (24.223s)! For help, type "help"
+[02:34:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:34:10] [Server thread/INFO]: bin/python3 /workspaces/asasdadasd/msx.py<--[HERE]
+[02:34:48] [Server thread/INFO]: Sciross[/127.216.186.123:35945] logged in with entity id 28 at (6.5, 69.0, -9.5)
+[02:34:48] [Server thread/INFO]: Sciross joined the game
+[02:35:15] [Server thread/INFO]: Alex[/127.16.49.40:36955] logged in with entity id 236 at (-4.5, 70.0, 0.5)
+[02:35:15] [Server thread/INFO]: Alex joined the game
+[02:35:34] [Server thread/WARN]: Sciross moved too quickly! -9.035676161734866,-0.2247629905309907,4.3879145299944255
+[02:37:21] [Server thread/WARN]: Sciross moved too quickly! -2.686008850775311,-0.243240711822736,-9.97291075661235
+[02:37:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[02:38:03] [Server thread/WARN]: Sciross moved too quickly! 9.90847535025452,0.0,-2.093982756352375
+[02:38:15] [Server thread/WARN]: Sciross moved too quickly! 3.020318990172683,0.4186640077748365,9.75457751781471
+[02:40:46] [Server thread/INFO]: Alex has made the advancement [A Seedy Place]
+[02:42:49] [Server thread/INFO]: Sciross has made the advancement [Acquire Hardware]
+[02:43:00] [Server thread/INFO]: Sciross has made the advancement [Isn't It Iron Pick]
+[02:43:34] [Server thread/INFO]: Alex has made the advancement [Stone Age]
+[02:43:45] [Server thread/INFO]: Sciross has made the advancement [Stone Age]
+[02:45:14] [Server thread/INFO]: Sciross has made the advancement [Sweet Dreams]
+[02:45:49] [Server thread/INFO]: Alex has made the advancement [Sweet Dreams]
+[02:46:03] [Server thread/INFO]: Alex has made the advancement [Getting an Upgrade]
+[02:48:19] [Server thread/INFO]: Alex has made the advancement [Monster Hunter]
