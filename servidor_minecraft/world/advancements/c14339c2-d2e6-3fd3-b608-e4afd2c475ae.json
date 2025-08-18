@@ -149,6 +149,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-18 03:31:16 +0000",
       "bread": "2025-08-09 02:39:52 +0000",
+      "cooked_chicken": "2025-08-18 05:16:41 +0000",
       "rotten_flesh": "2025-08-18 04:31:35 +0000",
       "cooked_beef": "2025-08-18 04:23:08 +0000",
       "cooked_salmon": "2025-08-18 04:37:15 +0000"
@@ -2282,6 +2283,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "nether_wart": "2025-08-18 04:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-08-18 05:12:09 +0000"
     },
     "done": true
   },
