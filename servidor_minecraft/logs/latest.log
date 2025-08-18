@@ -1,89 +1,42 @@
-[02:33:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:33:44] [ServerMain/INFO]: No existing world data, creating new world
-[02:33:46] [ServerMain/INFO]: Loaded 1407 recipes
-[02:33:46] [ServerMain/INFO]: Loaded 1520 advancements
-[02:33:46] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:33:46] [Server thread/INFO]: Loading properties
-[02:33:46] [Server thread/INFO]: Default game type: SURVIVAL
-[02:33:46] [Server thread/INFO]: Generating keypair
-[02:33:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:33:46] [Server thread/INFO]: Using epoll channel type
-[02:33:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:33:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:33:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:33:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:33:46] [Server thread/INFO]: Preparing level "world"
-[02:34:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:34:02] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:03] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:03] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:03] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:04] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:04] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:05] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:05] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:06] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:06] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:07] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:07] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:08] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:08] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:09] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:09] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:10] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[02:34:10] [Worker-Main-2/INFO]: Preparing spawn area: 24%
-[02:34:10] [Server thread/INFO]: Time elapsed: 8714 ms
-[02:34:10] [Server thread/INFO]: Done (24.223s)! For help, type "help"
-[02:34:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:34:10] [Server thread/INFO]: bin/python3 /workspaces/asasdadasd/msx.py<--[HERE]
-[02:34:48] [Server thread/INFO]: Sciross[/127.216.186.123:35945] logged in with entity id 28 at (6.5, 69.0, -9.5)
-[02:34:48] [Server thread/INFO]: Sciross joined the game
-[02:35:15] [Server thread/INFO]: Alex[/127.16.49.40:36955] logged in with entity id 236 at (-4.5, 70.0, 0.5)
-[02:35:15] [Server thread/INFO]: Alex joined the game
-[02:35:34] [Server thread/WARN]: Sciross moved too quickly! -9.035676161734866,-0.2247629905309907,4.3879145299944255
-[02:37:21] [Server thread/WARN]: Sciross moved too quickly! -2.686008850775311,-0.243240711822736,-9.97291075661235
-[02:37:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
-[02:38:03] [Server thread/WARN]: Sciross moved too quickly! 9.90847535025452,0.0,-2.093982756352375
-[02:38:15] [Server thread/WARN]: Sciross moved too quickly! 3.020318990172683,0.4186640077748365,9.75457751781471
-[02:40:46] [Server thread/INFO]: Alex has made the advancement [A Seedy Place]
-[02:42:49] [Server thread/INFO]: Sciross has made the advancement [Acquire Hardware]
-[02:43:00] [Server thread/INFO]: Sciross has made the advancement [Isn't It Iron Pick]
-[02:43:34] [Server thread/INFO]: Alex has made the advancement [Stone Age]
-[02:43:45] [Server thread/INFO]: Sciross has made the advancement [Stone Age]
-[02:45:14] [Server thread/INFO]: Sciross has made the advancement [Sweet Dreams]
-[02:45:49] [Server thread/INFO]: Alex has made the advancement [Sweet Dreams]
-[02:46:03] [Server thread/INFO]: Alex has made the advancement [Getting an Upgrade]
-[02:48:19] [Server thread/INFO]: Alex has made the advancement [Monster Hunter]
-[02:55:38] [Server thread/INFO]: Alex has made the advancement [Acquire Hardware]
-[02:56:08] [Server thread/INFO]: Alex has made the advancement [Isn't It Iron Pick]
-[02:59:25] [Server thread/INFO]: Sciross has made the advancement [Monster Hunter]
-[03:00:39] [Server thread/INFO]: Sciross lost connection: Disconnected
-[03:00:39] [Server thread/INFO]: Sciross left the game
-[03:16:50] [Server thread/INFO]: Sciross[/127.216.186.123:39795] logged in with entity id 10561 at (203.18077394192852, 28.0, -270.4565511990609)
-[03:16:50] [Server thread/INFO]: Sciross joined the game
-[03:17:27] [Server thread/INFO]: [Not Secure] <Sciross> contesta v
-[03:18:03] [Server thread/INFO]: Sciross has made the advancement [Suit Up]
-[03:24:12] [Server thread/INFO]: Alex was slain by Zombie
-[03:26:41] [Server thread/INFO]: Alex was slain by Zombie
-[03:28:58] [Server thread/INFO]: Alex was shot by Skeleton
-[03:30:56] [Server thread/INFO]: Alex was shot by Skeleton
-[03:32:58] [Server thread/INFO]: Alex was shot by Skeleton
-[03:35:50] [Server thread/INFO]: Alex has made the advancement [Diamonds!]
-[03:54:21] [Server thread/INFO]: Alex was slain by Iron Golem
-[03:55:46] [Server thread/INFO]: Sciross has made the advancement [What a Deal!]
-[04:01:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2219ms or 44 ticks behind
-[04:02:54] [Server thread/INFO]: Alex has made the advancement [Not Today, Thank You]
-[04:09:34] [Server thread/INFO]: Villager cuf['Villager'/1506, l='ServerLevel[world]', x=157.35, y=68.68, z=-371.33] died, message: 'Villager was slain by Zombie'
-[04:09:56] [Server thread/INFO]: Villager cuf['Villager'/1150, l='ServerLevel[world]', x=160.63, y=68.62, z=-371.31] died, message: 'Villager was slain by Zombie'
-[04:10:04] [Server thread/INFO]: Sciross lost connection: Disconnected
-[04:10:04] [Server thread/INFO]: Sciross left the game
-[04:10:36] [Server thread/INFO]: Villager cuf['Villager'/1221, l='ServerLevel[world]', x=162.68, y=68.00, z=-379.23] died, message: 'Villager was slain by Zombie'
-[04:11:15] [Server thread/INFO]: Villager cuf['Toolsmith'/1210, l='ServerLevel[world]', x=159.95, y=68.56, z=-371.30] died, message: 'Toolsmith was slain by Zombie'
-[04:11:41] [Server thread/INFO]: Villager cuf['Villager'/1215, l='ServerLevel[world]', x=162.50, y=68.39, z=-377.39] died, message: 'Villager was slain by Zombie'
-[04:12:16] [Server thread/INFO]: Villager cuf['Mason'/1440, l='ServerLevel[world]', x=157.56, y=68.56, z=-372.69] died, message: 'Mason was slain by Zombie'
-[04:12:35] [Server thread/INFO]: Villager cuf['Fletcher'/1220, l='ServerLevel[world]', x=157.42, y=68.56, z=-372.12] died, message: 'Fletcher was slain by Zombie'
-[04:13:25] [Server thread/INFO]: Villager cuf['Toolsmith'/1187, l='ServerLevel[world]', x=162.55, y=68.00, z=-380.57] died, message: 'Toolsmith was slain by Zombie'
-[04:13:40] [Server thread/INFO]: Villager cuf['Armorer'/1218, l='ServerLevel[world]', x=159.80, y=68.00, z=-380.49] died, message: 'Armorer was slain by Zombie'
-[04:17:54] [Server thread/INFO]: Alex lost connection: Disconnected
-[04:17:54] [Server thread/INFO]: Alex left the game
-[04:18:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:19:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:19:58] [ServerMain/INFO]: Loaded 1407 recipes
+[02:19:58] [ServerMain/INFO]: Loaded 1520 advancements
+[02:19:58] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:19:58] [Server thread/INFO]: Loading properties
+[02:19:58] [Server thread/INFO]: Default game type: SURVIVAL
+[02:19:58] [Server thread/INFO]: Generating keypair
+[02:19:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:19:58] [Server thread/INFO]: Using epoll channel type
+[02:19:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:19:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:19:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:19:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:19:58] [Server thread/INFO]: Preparing level "world"
+[02:19:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:08] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[02:20:08] [Server thread/INFO]: Time elapsed: 9359 ms
+[02:20:08] [Server thread/INFO]: Done (9.863s)! For help, type "help"
+[02:21:08] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:21:45] [Server thread/INFO]: Sciross[/127.216.186.123:34671] logged in with entity id 12 at (180.83405060741032, 64.0, -315.79632825332163)
+[02:21:45] [Server thread/INFO]: Sciross joined the game
+[02:22:50] [Server thread/INFO]: Alex[/127.16.49.40:36005] logged in with entity id 458 at (132.45358097258946, 66.0, -363.6912710911579)
+[02:22:50] [Server thread/INFO]: Alex joined the game
+[02:24:43] [Server thread/INFO]: Set Sciross's game mode to Creative Mode
