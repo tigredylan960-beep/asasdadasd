@@ -150,7 +150,8 @@
       "cooked_porkchop": "2025-08-18 03:31:16 +0000",
       "bread": "2025-08-09 02:39:52 +0000",
       "rotten_flesh": "2025-08-18 04:31:35 +0000",
-      "cooked_beef": "2025-08-18 04:23:08 +0000"
+      "cooked_beef": "2025-08-18 04:23:08 +0000",
+      "cooked_salmon": "2025-08-18 04:37:15 +0000"
     },
     "done": false
   },
@@ -1531,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-18 04:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-08-18 02:48:51 +0000"
@@ -1558,6 +1565,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-08-18 02:29:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-18 04:40:19 +0000"
     },
     "done": true
   },
@@ -1594,6 +1607,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-08-18 02:22:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-18 04:42:27 +0000"
     },
     "done": true
   },
@@ -1671,6 +1690,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-18 04:42:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-08-18 02:37:15 +0000"
@@ -1719,6 +1744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-18 04:42:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-08-18 04:30:28 +0000"
@@ -1728,6 +1759,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-08-18 04:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-18 04:40:19 +0000"
     },
     "done": true
   },
@@ -1782,6 +1819,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-08-18 04:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-18 04:40:19 +0000"
     },
     "done": true
   },
@@ -1989,6 +2032,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-08-18 04:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-18 04:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-08-18 04:30:28 +0000"
@@ -2049,6 +2104,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-18 04:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed": {
     "criteria": {
       "has_lime_wool": "2025-08-18 02:29:16 +0000"
@@ -2064,6 +2125,12 @@
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2025-08-18 02:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2025-08-18 04:40:19 +0000"
     },
     "done": true
   },
