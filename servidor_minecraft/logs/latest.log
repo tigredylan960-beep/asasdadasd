@@ -112,3 +112,5 @@
 [04:38:59] [Server thread/INFO]: Villager cuf['Fletcher'/45959, l='ServerLevel[world]', x=185.36, y=64.56, z=-318.70] died, message: 'Fletcher was slain by Zombie Villager'
 [04:39:00] [Server thread/INFO]: Villager cuf['Fletcher'/45961, l='ServerLevel[world]', x=184.55, y=64.56, z=-318.55] died, message: 'Fletcher was slain by Zombie Villager'
 [04:39:10] [Server thread/INFO]: Alex was shot by Skeleton
+[04:46:48] [Server thread/INFO]: Set Alex's game mode to Creative Mode
+[04:48:26] [Server thread/INFO]: Alex has made the advancement [Cover Me with Diamonds]
