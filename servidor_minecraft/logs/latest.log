@@ -101,3 +101,6 @@
 [04:13:20] [Server thread/INFO]: Alex was slain by Vindicator
 [04:13:24] [Server thread/INFO]: Alex was slain by Vindicator
 [04:15:39] [Server thread/INFO]: Alex has made the advancement [Ol' Betsy]
+[04:26:45] [Server thread/INFO]: Alex was slain by Zombie
+[04:32:13] [Server thread/INFO]: Alex drowned
+[04:33:12] [Server thread/INFO]: Villager cuf['Villager'/43896, l='ServerLevel[world]', x=186.70, y=64.56, z=-318.70] died, message: 'Villager was killed by Witch using magic'
