@@ -104,3 +104,11 @@
 [04:26:45] [Server thread/INFO]: Alex was slain by Zombie
 [04:32:13] [Server thread/INFO]: Alex drowned
 [04:33:12] [Server thread/INFO]: Villager cuf['Villager'/43896, l='ServerLevel[world]', x=186.70, y=64.56, z=-318.70] died, message: 'Villager was killed by Witch using magic'
+[04:35:12] [Server thread/INFO]: Alex was killed by Witch using magic
+[04:36:05] [Server thread/INFO]: Alex was killed by Witch using magic
+[04:36:34] [Server thread/INFO]: Alex was killed by Witch using magic
+[04:37:12] [Server thread/INFO]: Alex was killed by Witch using magic
+[04:38:54] [Server thread/INFO]: Villager cuf['Fletcher'/45960, l='ServerLevel[world]', x=184.43, y=64.00, z=-316.42] died, message: 'Fletcher was slain by Zombie'
+[04:38:59] [Server thread/INFO]: Villager cuf['Fletcher'/45959, l='ServerLevel[world]', x=185.36, y=64.56, z=-318.70] died, message: 'Fletcher was slain by Zombie Villager'
+[04:39:00] [Server thread/INFO]: Villager cuf['Fletcher'/45961, l='ServerLevel[world]', x=184.55, y=64.56, z=-318.55] died, message: 'Fletcher was slain by Zombie Villager'
+[04:39:10] [Server thread/INFO]: Alex was shot by Skeleton
