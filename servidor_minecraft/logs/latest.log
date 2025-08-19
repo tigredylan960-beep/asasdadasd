@@ -40,3 +40,8 @@
 [03:05:57] [Server thread/INFO]: Sciross[/127.216.186.123:56913] logged in with entity id 343 at (186.33837293789318, 64.55321338701523, -304.4923459634291)
 [03:05:57] [Server thread/INFO]: Sciross joined the game
 [03:07:17] [Server thread/INFO]: Sciross tried to swim in lava
+[03:45:39] [Server thread/INFO]: Villager cuf['Villager'/94, l='ServerLevel[world]', x=185.45, y=63.60, z=-313.73] died, message: 'Villager tried to swim in lava'
+[03:47:10] [Server thread/INFO]: Villager cuf['Villager'/95, l='ServerLevel[world]', x=186.26, y=64.00, z=-316.44] died, message: 'Villager was slain by Zombie'
+[03:48:05] [Server thread/INFO]: Sciross was slain by Alex
+[03:56:18] [Server thread/INFO]: Sciross lost connection: Disconnected
+[03:56:18] [Server thread/INFO]: Sciross left the game
