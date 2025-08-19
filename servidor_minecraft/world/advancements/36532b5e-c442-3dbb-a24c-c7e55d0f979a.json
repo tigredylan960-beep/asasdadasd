@@ -513,6 +513,7 @@
       "minecraft:skeleton": "2025-08-09 02:48:19 +0000",
       "minecraft:zombified_piglin": "2025-08-18 06:18:15 +0000",
       "minecraft:magma_cube": "2025-08-18 03:33:50 +0000",
+      "minecraft:witch": "2025-08-19 04:09:30 +0000",
       "minecraft:spider": "2025-08-18 03:02:09 +0000",
       "minecraft:zombie": "2025-08-09 04:07:40 +0000",
       "minecraft:creeper": "2025-08-18 03:06:33 +0000",
@@ -2051,6 +2052,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-19 04:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-19 04:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-19 04:09:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-19 03:27:59 +0000"
@@ -2075,15 +2094,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-19 04:09:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-19 03:27:59 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-19 04:09:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-19 03:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-08-19 04:09:30 +0000"
     },
     "done": true
   },
@@ -2102,6 +2139,18 @@
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-19 03:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-19 04:09:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-19 04:09:30 +0000"
     },
     "done": true
   },
